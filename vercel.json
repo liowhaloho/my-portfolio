@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/",
-      "destination": "https://script.google.com/macros/s/AKfycbyipWbCz10-_M4mH253um5xCTbecgm0A8w2iOfPPaL1YUobsgIkQ3az09VyxI_cW1sP7w/exec"
+      "source": "/(.*)",
+      "destination": "https://script.google.com/macros/s/AKfycbyipWbCz10-_M4mH253um5xCTbecgm0A8w2iOfPPaL1YUobsgIkQ3az09VyxI_cW1sP7w/exec",
       "permanent": true
     }
   ]
